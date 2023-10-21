@@ -8,7 +8,7 @@ import {
   HiRectangleGroup,
   HiUser,
   HiViewColumns,
-} from "react-icons/hi";
+} from "react-icons/hi2";
 import { Link } from "react-router-dom";
 
 function Navbar() {
